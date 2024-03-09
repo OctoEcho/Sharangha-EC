@@ -3945,7 +3945,7 @@
     }
     
     .banner-content {
-      background: hsla(0, 0%, 100%, 0.8);
+      background: #9999a1;
       position: absolute;
       bottom: 25px;
       left: 25px;
