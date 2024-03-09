@@ -885,7 +885,7 @@
     }
     
     .banner-content {
-      background: hsl(0deg 0% 0% / 80%);
+      background: hsl(0, 0%, 93%);
       position: absolute;
       bottom: 25px;
       left: 25px;
